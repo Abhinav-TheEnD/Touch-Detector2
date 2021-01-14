@@ -1,2 +1,2 @@
-# Touch-Detector2
-YO YO YO
+# collisionAlgorithm
+Algorithm to detect collision between two objects
